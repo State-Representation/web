@@ -1,2 +1,2 @@
-# Comparing Reconstruction- and Contrastive-based Models for Visual Task Plannin Website
-Website (https://state-representation.github.io/web/) for the paper "Comparing Reconstruction- and Contrastive-based Models for Visual Task Plannin" - under review
+# Comparing Reconstruction- and Contrastive-based Models for Visual Task Planning  - Website
+Website (https://state-representation.github.io/web/) for the paper "Comparing Reconstruction- and Contrastive-based Models for Visual Task Planning" - accepted at IROS2022
